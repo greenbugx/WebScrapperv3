@@ -49,7 +49,7 @@ This project was created to simplify the initial reconnaissance phase of securit
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/username/WebScrapperv3.git
+git clone https://github.com/greenbugx/WebScrapperv3.git
 cd WebScrapperv3
 ```
 
