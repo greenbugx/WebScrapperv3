@@ -56,7 +56,7 @@ This project was created to simplify the initial reconnaissance phase of securit
 
 ```bash
 git clone https://github.com/greenbugx/ScorpionV3.git
-cd WebScrapperv3
+cd ScorpionV3
 ```
 
 ### Step 2: Create a virtual environment (recommended)
