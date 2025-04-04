@@ -1,0 +1,5 @@
+http://demo.testfire.net/
+https://ginandjuice.shop/
+https://brokencrystals.com/
+http://testphp.vulnweb.com/
+https://xss-game.appspot.com/
