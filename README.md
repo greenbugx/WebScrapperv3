@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#">
+    <img src="logo.png" />
+  </a>
+</p>
+
 # WebScraper v3
 
 A powerful web scraping and security scanning tool designed for penetration testing and security analysis. This tool combines website scraping capabilities with vulnerability detection to help identify common security issues.
