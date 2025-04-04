@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Web_Scrapper_v3-GreenBugX-8A2BE2?style=for-the-badge&logo=insects&logoColor=white&labelColor=darkgreen&color=green&labelWidth=400&logoWidth=40" alt="Scrape!" style="transform: scale(1.5); margin: 10px 0;" />
+    <img src="https://img.shields.io/badge/ScorpionV3-GreenBugX-8A2BE2?style=for-the-badge&logo=insects&logoColor=white&labelColor=darkgreen&color=green&labelWidth=400&logoWidth=40" alt="Scrape!" style="transform: scale(1.5); margin: 10px 0;" />
   </a>
 </p>
 
@@ -12,17 +12,17 @@
 
 <p align="center">
   <a href="#">
-    <img src="logo.png" />
+    <img src="logo.png" width=200px/>
   </a>
 </p>
 
-# WebScraper v3
+# ScorpionV3
 
 A powerful web scraping and security scanning tool designed for penetration testing and security analysis. This tool combines website scraping capabilities with vulnerability detection to help identify common security issues.
 
 ## Introduction
 
-WebScraper v3 is a dual-purpose tool developed for security professionals, penetration testers, and web developers who need to analyze websites for both content and security vulnerabilities. It can crawl websites recursively, download assets, and scan for common security issues such as XSS vulnerabilities, SQL injection points, information disclosure, and outdated software.
+ScorpionV3 is a dual-purpose tool developed for security professionals, penetration testers, and web developers who need to analyze websites for both content and security vulnerabilities. It can crawl websites recursively, download assets, and scan for common security issues such as XSS vulnerabilities, SQL injection points, information disclosure, and outdated software.
 
 This project was created to simplify the initial reconnaissance phase of security assessments and provide actionable insight into potential vulnerabilities.
 
@@ -55,7 +55,7 @@ This project was created to simplify the initial reconnaissance phase of securit
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/greenbugx/WebScrapperv3.git
+git clone https://github.com/greenbugx/ScorpionV3.git
 cd WebScrapperv3
 ```
 
